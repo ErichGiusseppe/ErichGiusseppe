@@ -83,4 +83,4 @@ Feel free to reach out and connect:
 | <a href="https://github.com/ErichGiusseppe/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ErichGiusseppe&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> |
 -->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ErichGiusseppe&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
