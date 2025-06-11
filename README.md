@@ -61,7 +61,7 @@ I am passionate about transforming data into actionable insights using advanced 
 ### 📫 Contact
 
 Feel free to reach out and connect:  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erichgiusseppe/)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erich-giusseppe-soto-parada-8b05611bb/)  
 📬 erichgiusseppe [at] gmail [dot] com  
 
 ---
