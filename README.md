@@ -75,10 +75,12 @@ Feel free to reach out and connect:
 ---
 
 
-![Giusseppe's github stats](https://github-readme-stats.vercel.app/api?username=ErichGiusseppe)
+<!-- 
+[![Giusseppe's github stats](https://github-readme-stats.vercel.app/api?username=ErichGiusseppe)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ErichGiusseppe&theme=midnight-purple&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 | <a href="https://github.com/ErichGiusseppe/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ErichGiusseppe&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> |
+-->
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
