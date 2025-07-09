@@ -76,8 +76,6 @@ Feel free to reach out and connect:
 
 ![Giusseppe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ErichGiusseppe&show_icons=true&include_all_commits=true&theme=default&hide_border=true)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ErichGiusseppe&theme=default&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=ErichGiusseppe&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ---
