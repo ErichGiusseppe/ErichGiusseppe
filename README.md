@@ -66,19 +66,12 @@ I am passionate about transforming data into actionable insights using advanced 
 ---
 
 ### 📫 Contact
-
 Feel free to reach out and connect:  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erich-giusseppe-soto-parada-8b05611bb/)  
-📬 erichgiusseppesotop [at] gmail [dot] com  
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=flat&logo=googlechrome&logoColor=white)](https://erichgiusseppe.github.io/erich-portfolio/)  
+📬 erichgiusseppesotop [at] gmail [dot] com
 
 ---
-
-### 📊 GitHub Stats
-
-![Giusseppe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ErichGiusseppe&show_icons=true&include_all_commits=true&theme=default&hide_border=true)
-
----
-
 
 <!-- 
 [![Giusseppe's github stats](https://github-readme-stats.vercel.app/api?username=ErichGiusseppe)
